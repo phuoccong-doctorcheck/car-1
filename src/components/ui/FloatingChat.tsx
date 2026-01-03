@@ -31,7 +31,7 @@ export default function FloatingChat() {
 
       {/* ZALO */}
       <motion.a
-        href="https://zalo.me/0975416999"
+        href="https://zalo.me/0348391999"
         target="_blank"
         rel="noopener noreferrer"
         whileHover={{ scale: 1.08 }}
